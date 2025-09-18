@@ -33,3 +33,12 @@ Sprint review:
 - Reflect on what went well, what didn't, and decide on process improvements
 
 
+JIRA Issue Types
+
+Epic: A large initiative or feature that can be broken down into multiple stories
+
+Stories: A user focuses feature or requirement that contributes to the Epic
+
+Bug: A defect or error in the system that needs fixing
+
+Task: A small technical or administrative activity not directly tied to user features.
