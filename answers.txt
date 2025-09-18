@@ -1,1 +1,9 @@
-git checkout -b CSP-16-ece-30864-lab-3
+Pros and Cons of Agile Development
+Pros: 
+- Flexibility to adapt to changing requirements quickly
+- Frequent customer feedback ensures the product meets user needs.
+
+Cons:
+- Scope creep risk due to constant changes and iterations
+- Requires high team collaboration, which can be difficult to maintain.
+
