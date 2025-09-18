@@ -7,3 +7,13 @@ Cons:
 - Scope creep risk due to constant changes and iterations
 - Requires high team collaboration, which can be difficult to maintain.
 
+Scrum Master vs Product Owner
+Scrum Master:
+- Facilitates Scrum ceremonies.
+- Removes obstacle that block the team’s progress
+- Ensures the team follows Agile principles and Scrum practices
+
+Product Owner:
+- Owns the product vision and roadmap
+- Prioritizes and manages the product backlog
+- Acts as the main liaison between stakeholders and the development team.
