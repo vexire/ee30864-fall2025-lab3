@@ -17,3 +17,19 @@ Product Owner:
 - Owns the product vision and roadmap
 - Prioritizes and manages the product backlog
 - Acts as the main liaison between stakeholders and the development team.
+
+
+Sprint Meetings
+Daily Scrum:
+- Discuss what was completed since the last meeting
+- Share current work and identify any blockers
+
+Sprint Planning:
+- Define the sprint goal
+- Select user stories from the backlog to include in the sprint
+
+Sprint review:
+- Review completed work to stakeholders
+- Reflect on what went well, what didn't, and decide on process improvements
+
+
